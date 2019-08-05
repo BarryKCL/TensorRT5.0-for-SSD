@@ -3,10 +3,11 @@ qtcreator project for TensorRT5.0
 
 # Usage
 ## Requirements
-
 1.opencv
-1.CUDA-10.0
 
+2.CUDA-10.0
+
+3.TensorRT5.0
 ## for original SSD:
 
 [SSD](https://docs.nvidia.com/deeplearning/sdk/tensorrt-sample-support-guide/index.html#sample_ssd)
